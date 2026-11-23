@@ -17,6 +17,10 @@ Dated record of decisions, sessions and deviations from the preregistration. New
 | 2026-11-22 | Decision: a facilitator may be replaced after consulting the current facilitators. Whoever facilitates a session cannot take part as a participant; developers of the system remain excluded. |
 | 2026-11-22 | Record keeping: these decisions came out of questions a developer asked about the session setup. The full discussion, with the options considered and the reasons, is kept in an internal lab notebook that names people and the site; this log carries the decisions only. |
 | 2026-11-22 | AI assistance: the entries of this date were drafted by a generative AI assistant from the discussion record. The decisions were made by the first author. |
+| 2026-11-23 | Decision: participants give written consent on an information sheet and consent form. Screen and audio recordings and the signed forms are kept until 2028-12-31 and then deleted. A participant can ask for their records to be deleted until 2027-01-05, the day before analysis starts. Responses that are not linked to a name may be released with the paper; the consent form asks for this separately. |
+| 2026-11-23 | Decision: after each session the facilitator gives the participant a full explanation of the study and offers again to delete their records. Participants are asked not to discuss the session with others until data collection ends. |
+| 2026-11-23 | Literature check: one earlier conference paper on turning a design model into a twin, which the related-work draft cites, was read in full to see whether it measured conversion effort. It reports a qualitative single-site prototype and leaves effort metrics to future work. The related-work text was corrected to say so. |
+| 2026-11-23 | AI assistance: the consent form draft and the entries of this date were drafted by a generative AI assistant; a research sub-task (reading venue rules and the cited paper) was also run by an AI assistant and its findings are marked for re-checking before submission. The decisions were made by the first author. |
 
 ## Deviations from the preregistration
 None yet (the preregistration is not frozen).
