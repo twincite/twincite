@@ -27,6 +27,7 @@ Dated record of decisions, sessions and deviations from the preregistration. New
 | 2026-11-23 | Decision: two measurements are added for December. (1) One model is onboarded again from scratch while the time of each step and every manual intervention are recorded. (2) A random sample of 100 supply relations, which the pipeline infers from element names, is checked by hand against the design model. Both are planned before the data are seen. |
 | 2026-11-23 | Decision: manuscripts describe the site as a testbed (the real building's architectural model, measured readings from consumer-grade devices on two floors, and simulated plant telemetry with injected faults). They do not describe it as a building in routine operation, and they state that the people in the user study are the first non-developers to use the system. |
 | 2026-11-23 | Scope: a third venue that required an RDF graph is dropped, because the graph is a property graph that is only partly aligned with a standard building vocabulary. |
+| 2026-11-23 | Scope: the January manuscripts use material from one site only. Conversion statistics from a second site, which had been planned as supporting evidence, are left out; the timed onboarding is run on the first site's model. |
 
 ## Deviations from the preregistration
 None yet (the preregistration is not frozen).
