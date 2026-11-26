@@ -29,7 +29,7 @@ This folder is written to be published on its own. It names no organisation, pro
 
 ## Disclosures
 - The authors work for the organisation that built and operates the system under study.
-- Some participants are staff of that organisation or of an affiliated company; none took part in developing the system. External participants receive a gift voucher (KRW 30,000–50,000); staff take part during working hours without extra compensation.
+- Some participants are staff of that organisation or of an affiliated company; none took part in developing the system. External participants receive KRW 30,000–50,000 in cash, or as a gift voucher if they prefer; staff take part during working hours without extra compensation.
 - The organisation has no institutional review board. The study follows written informed consent; see `instruments/`.
 - Generative AI tools were used to draft documents and analysis code. The authors reviewed and are responsible for all content. The extent of use is recorded in `study-log.md`.
 
